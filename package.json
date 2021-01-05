@@ -9,7 +9,7 @@
   "author": "Wahyu Nugraha <nugraha.c.wahyu@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "dotenv": "^8.1.0",
     "node-telegram-bot-api": "^0.30.0"
   }
